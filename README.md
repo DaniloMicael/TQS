@@ -4,6 +4,6 @@
 
 |       | Individual Portfolio (P)  | Group Project (P) | Written Exam (TP) |
 |-------|---------------------------|-------------------|-------------------|
-| Grade | ...                       | ...               | ...               |
+| Grade | 18                        | 18                | 15                |
 
-**Final Grade**: `...`
+**Final Grade**: `17`
